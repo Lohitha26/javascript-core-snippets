@@ -1,3 +1,4 @@
+//Hoisting is JavaScript’s internal process during the compilation phase (before your code runs), where it pulls all declarations (variables + functions) to the top of their scope.
 // 🔼 Example 1: Variable hoisting with var
 console.log(a); // undefined
 var a = 5;
